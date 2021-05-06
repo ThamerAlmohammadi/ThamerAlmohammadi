@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ThamerAlmohammadi
+- 👀 I’m interested in cybersecurity and PHP
+- 🌱 I’m currently learning python
